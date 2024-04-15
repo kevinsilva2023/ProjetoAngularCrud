@@ -1,10 +1,10 @@
- {
+{
   "name": "backend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --w db.json --port 3000"
+    "start": "json-server --watch db.json --port 3000"
   },
   "keywords": [],
   "author": "",
